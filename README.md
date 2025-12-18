@@ -1,6 +1,27 @@
 # Lost of Originality
-So, as for now we achive to move our character
-using w,a,s,d keys we used this key for moving our character 
-and we also moving camera with character at same time with character it is actully is First-Person Movement FPS 
-and Location for this file are in gameathon_dominators\Assets\Objects\Character
- and the fils we use are : mouse movement , player
+Player Movement & Camera Control (Implemented)
+
+We have successfully implemented First-Person Player Movement (FPS) in the game.
+The player can move using the W, A, S, D keys, allowing smooth navigation through the environment.
+
+Along with movement, mouse-based camera control is integrated, enabling the camera to rotate naturally with the player. This creates a true first-person experience, where both movement and view direction feel connected and immersive.
+
+Controls
+
+W – Move Forward
+
+A – Move Left
+
+S – Move Backward
+
+D – Move Right
+
+Mouse Movement – Look Around
+Script Location
+gameathon_dominators/Assets/Objects/Character/
+Scripts Used
+PlayerMovement.cs – Handles player movement using keyboard input
+
+MouseLook.cs – Controls camera rotation using mouse input
+
+This system forms the foundation of exploration gameplay, allowing the player to freely move and observe the world from a first-person perspective.
