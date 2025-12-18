@@ -6,8 +6,7 @@ The player can move using the W, A, S, D keys, allowing smooth navigation throug
 
 Along with movement, mouse-based camera control is integrated, enabling the camera to rotate naturally with the player. This creates a true first-person experience, where both movement and view direction feel connected and immersive.
 
-Controls
-
+ Controls
 W – Move Forward
 
 A – Move Left
@@ -17,9 +16,12 @@ S – Move Backward
 D – Move Right
 
 Mouse Movement – Look Around
-Script Location
+
+ Script Location
 gameathon_dominators/Assets/Objects/Character/
-Scripts Used
+
+ Scripts Used
+
 PlayerMovement.cs – Handles player movement using keyboard input
 
 MouseLook.cs – Controls camera rotation using mouse input
