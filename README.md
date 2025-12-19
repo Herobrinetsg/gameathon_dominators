@@ -23,3 +23,4 @@ PlayerMovement.cs – Handles player movement using keyboard input
 MouseLook.cs – Controls camera rotation using mouse input
 
 This system forms the foundation of exploration gameplay, allowing the player to freely move and observe the world from a first-person perspective.
+# we create it all in 24 hr we didnt come with any prebuilt and it is prototype version we didnt do muach graphis also coz time we just show our concept how all works 
