@@ -14,7 +14,13 @@ R - for shifting in dimension
 Mouse Movement – Look Around
 
  Script Location
-gameathon_dominators/Assets/Objects/Character/
+gameathon_dominators/Assets/
+ ├── Objects/
+ │    ├── Map/
+ │    └── Character/
+ │         ├── PlayerMovement.cs
+ │         └── MouseLook.cs
+
 
  Scripts Used
 
